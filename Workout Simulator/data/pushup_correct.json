@@ -1,0 +1,454 @@
+[
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 1,
+        "flag": "good",
+        "timestamp": 50
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 1,
+        "flag": "good",
+        "timestamp": 50
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 1,
+        "flag": "good",
+        "timestamp": 50
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "calves",
+        "extension_level": 1,
+        "flag": "good",
+        "timestamp": 50
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.95,
+        "flag": "good",
+        "timestamp": 500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.95,
+        "flag": "good",
+        "timestamp": 500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.90,
+        "flag": "good",
+        "timestamp": 500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.80,
+        "flag": "good",
+        "timestamp": 1000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.80,
+        "flag": "good",
+        "timestamp": 1000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.80,
+        "flag": "good",
+        "timestamp": 1000
+    },
+
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.75,
+        "flag": "good",
+        "timestamp": 1500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.75,
+        "flag": "good",
+        "timestamp": 1500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.70,
+        "flag": "good",
+        "timestamp": 1500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "back",
+        "extension_level": 0.05,
+        "flag": "good",
+        "timestamp": 1500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.70,
+        "flag": "good",
+        "timestamp": 2000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.70,
+        "flag": "good",
+        "timestamp": 2000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.60,
+        "flag": "good",
+        "timestamp": 2000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.65,
+        "flag": "good",
+        "timestamp": 2500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.65,
+        "flag": "good",
+        "timestamp": 2500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.50,
+        "flag": "good",
+        "timestamp": 2500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "back",
+        "extension_level": 0.10,
+        "flag": "good",
+        "timestamp": 2500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.60,
+        "flag": "good",
+        "timestamp": 3000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.60,
+        "flag": "good",
+        "timestamp": 3000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.40,
+        "flag": "good",
+        "timestamp": 3000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.55,
+        "flag": "good",
+        "timestamp": 3500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.55,
+        "flag": "good",
+        "timestamp": 3500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.30,
+        "flag": "good",
+        "timestamp": 3500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.50,
+        "flag": "good",
+        "timestamp": 4000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.50,
+        "flag": "good",
+        "timestamp": 4000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0,
+        "flag": "good",
+        "timestamp": 4000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "back",
+        "extension_level": 0.15,
+        "flag": "good",
+        "timestamp": 4000
+    },
+
+
+
+
+
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.55,
+        "flag": "good",
+        "timestamp": 4500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.55,
+        "flag": "good",
+        "timestamp": 4500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.30,
+        "flag": "good",
+        "timestamp": 4500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "back",
+        "extension_level": 0.10,
+        "flag": "good",
+        "timestamp": 5000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.60,
+        "flag": "good",
+        "timestamp": 5000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.60,
+        "flag": "good",
+        "timestamp": 5000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.40,
+        "flag": "good",
+        "timestamp": 5000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.65,
+        "flag": "good",
+        "timestamp": 5500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.65,
+        "flag": "good",
+        "timestamp": 5500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.50,
+        "flag": "good",
+        "timestamp": 5500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.70,
+        "flag": "good",
+        "timestamp": 6000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.70,
+        "flag": "good",
+        "timestamp": 6000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.60,
+        "flag": "good",
+        "timestamp": 6000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.75,
+        "flag": "good",
+        "timestamp": 6500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.75,
+        "flag": "good",
+        "timestamp": 6500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.70,
+        "flag": "good",
+        "timestamp": 6500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "back",
+        "extension_level": 0.05,
+        "flag": "good",
+        "timestamp": 6500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.80,
+        "flag": "good",
+        "timestamp": 7000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.80,
+        "flag": "good",
+        "timestamp": 7000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.80,
+        "flag": "good",
+        "timestamp": 7000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0.95,
+        "flag": "good",
+        "timestamp": 7500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0.95,
+        "flag": "good",
+        "timestamp": 7500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0.90,
+        "flag": "good",
+        "timestamp": 7500
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 1,
+        "flag": "good",
+        "timestamp": 8000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 1,
+        "flag": "good",
+        "timestamp": 8000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 1,
+        "flag": "good",
+        "timestamp": 8000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "back",
+        "extension_level": 0,
+        "flag": "good",
+        "timestamp": 8000
+    },
+
+
+
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "left_arm",
+        "extension_level": 0,
+        "flag": "good",
+        "timestamp": 9000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "right_arm",
+        "extension_level": 0,
+        "flag": "good",
+        "timestamp": 9000
+    },
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "shoulders",
+        "extension_level": 0,
+        "flag": "good",
+        "timestamp": 9000
+    }, 
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "back",
+        "extension_level": 0,
+        "flag": "good",
+        "timestamp": 9000
+    }, 
+    {
+        "type": "MuscleExtension",
+        "muscle_group": "calves",
+        "extension_level": 0,
+        "flag": "good",
+        "timestamp": 9000
+    }
+
+
+]
